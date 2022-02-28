@@ -1,0 +1,16 @@
+.all_products_pagination {
+  margin: 0 auto;
+}
+
+/*  */
+
+.login_form,
+.forget_password_form,
+.reset_password_form,
+.signup-form,
+.track_order_form,
+.change_password_form {
+  margin: 0 auto;
+}
+
+/*  */
